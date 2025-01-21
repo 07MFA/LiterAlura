@@ -25,8 +25,7 @@ Literalura es una aplicación basada en **Spring Boot** que interactúa con la A
    ```bash
    git clone https://github.com/usuario/literalura.git
    cd literalura
-# Properties
-
+## Properties
 # Configuración de la API de Gutendex
 gutendex.api.url=https://gutendex.com
 # Puerto del servidor
